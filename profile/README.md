@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="profile/polytechnic-logo.png" height="90" alt="Government Polytechnic Bhubaneswar Logo" style="vertical-align: middle; margin-right: 24px;" />
-  <img src="profile/ooumph-logo.png" height="75" alt="Ooumph Logo" style="vertical-align: middle; margin-left: 24px;" />
+  <img src="./polytechnic-logo.png" height="90" alt="Government Polytechnic Bhubaneswar Logo" />
+  <img src="./ooumph-logo.png" height="75" alt="Ooumph Logo" />
 </p>
 
 <h1 align="center">Applied AI Centre of Excellence</h1>
